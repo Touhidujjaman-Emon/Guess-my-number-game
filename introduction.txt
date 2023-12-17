@@ -1,0 +1,4 @@
+Welcome to the thrilling world of 'Guess the Number .
+Here's how it works: You'll be presented with the task of guessing a secret number.
+The secret number could be anywhere from 1 to 100. Use your intuition, make your guess, and press the 'Check' button to see if you're right!
+And here's the challenge – try to beat your own record.But wait, there's more! If you're feeling up for a fresh start, simply hit the 'Play Again' button. It resets everything.
